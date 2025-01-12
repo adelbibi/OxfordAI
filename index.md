@@ -61,9 +61,9 @@ https://drive.google.com/file/d/17f8VIPAKd1yggilQlRqaqwKKw4TgTT0L/view?usp=shari
 
 ### Day 2: January 14th, 2025
 
-### Day 3: January 15st, 2025
+### Day 3: January 15th, 2025
 
-### Day 4: January 16nd, 2025
+### Day 4: January 16th, 2025
 
 ### Day 5: January 21st, 2025
 
