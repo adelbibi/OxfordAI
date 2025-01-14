@@ -60,7 +60,7 @@ https://drive.google.com/file/d/17f8VIPAKd1yggilQlRqaqwKKw4TgTT0L/view?usp=shari
 -->
 
 ### Day 2: January 14th, 2025
-* [Lecture #3: Logistic regression](https://drive.google.com/file/d/1_rq6Fofle1jcJb6nr4tjKWNQf_kH_cIW/view?usp=sharing)
+* [Lecture #3: Logistic regression](https://drive.google.com/file/d/1etcfSHJQQ-S1-OG__cApkc2dmJlu6fa2/view?usp=sharing)
 * Exercise #2: [Logistic regression](https://colab.research.google.com/drive/1LN_bDbrTaUx_OVCFdsJLJgSbwo5AZbOx?usp=sharing), [Solutions]
 <!--
 (https://drive.google.com/file/d/1M-ew-r4VYyQxqfG80Fn4SeroENTirVVd/view?usp=sharing)
