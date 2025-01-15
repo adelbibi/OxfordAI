@@ -72,7 +72,6 @@ https://drive.google.com/file/d/17f8VIPAKd1yggilQlRqaqwKKw4TgTT0L/view?usp=shari
 <!--
 (https://drive.google.com/file/d/1M-ew-r4VYyQxqfG80Fn4SeroENTirVVd/view?usp=sharing)
 -->
-* 
 
 ### Day 4: January 16th, 2025
 
