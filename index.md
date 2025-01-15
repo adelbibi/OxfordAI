@@ -67,6 +67,12 @@ https://drive.google.com/file/d/17f8VIPAKd1yggilQlRqaqwKKw4TgTT0L/view?usp=shari
 -->
 
 ### Day 3: January 15th, 2025
+* Lecture #4: [Neural Networks](https://drive.google.com/file/d/1Pm4sIO0KeLwQ7dayNNJl8i9oZnlgcEyp/view?usp=sharing)
+* Exercise #3: [Neural Networks](https://drive.google.com/file/d/193O-DetZNEzCS71Vyd4rJRB_QX99_J0j/view?usp=sharing), [Solutions]
+<!--
+(https://drive.google.com/file/d/1M-ew-r4VYyQxqfG80Fn4SeroENTirVVd/view?usp=sharing)
+-->
+* 
 
 ### Day 4: January 16th, 2025
 
