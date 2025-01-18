@@ -81,6 +81,9 @@ https://drive.google.com/file/d/17f8VIPAKd1yggilQlRqaqwKKw4TgTT0L/view?usp=shari
 -->
 
 ### Day 5: January 21st, 2025
+* Lecture #6: [Convolutional Neural Networks (2)](https://docs.google.com/presentation/d/1Ebr67ZLzJ0M_IxNRk8jSyU_eUOGtNiGg/edit?usp=sharing&ouid=102364519369546893633&rtpof=true&sd=true)
+* Exercise #5: [Transfer learning](https://drive.google.com/file/d/15_f_06WwGXxRAu5X7RC9J13ubnUSSPYw/view?usp=sharing)
+* Exercise #6: [Adversarial attacks](https://drive.google.com/file/d/1CMft1ZJQ0XHh8RIfO4AbA0Vapcnt5eTJ/view?usp=sharing)
 
 ### Day 6: January 22nd, 2025
 
@@ -92,26 +95,6 @@ https://drive.google.com/file/d/17f8VIPAKd1yggilQlRqaqwKKw4TgTT0L/view?usp=shari
 
 
 <!-- 
-### Day 2: January 14th, 2025
-* [Lecture #3: Logistic regression](https://drive.google.com/file/d/1_rq6Fofle1jcJb6nr4tjKWNQf_kH_cIW/view?usp=sharing)
-* Exercise #2: [Logistic regression](https://drive.google.com/file/d/1D5lNEsB-pfYh5OVal4Nq-hxvKHKoOlPP/view?usp=sharing), [Solutions](https://drive.google.com/file/d/1M-ew-r4VYyQxqfG80Fn4SeroENTirVVd/view?usp=sharing)
-
-### Day 3: August 15st, 2025
-* Lecture #4: [Neural Networks](https://drive.google.com/file/d/1Pm4sIO0KeLwQ7dayNNJl8i9oZnlgcEyp/view?usp=sharing)
-* Exercise #3: [Neural Networks](https://drive.google.com/file/d/193O-DetZNEzCS71Vyd4rJRB_QX99_J0j/view?usp=sharing), [Solutions](https://drive.google.com/file/d/1JMenPClcQdNYVCxB6NvrrzH5JEFJfHQm/view?usp=sharing)
-
-
-### Day 4: August 16nd, 2025
-* Lecture #5: [Convolutional Neural Networks (1)](https://drive.google.com/file/d/1J6NWWfWpyTwA3zi--bQAk60vCYeXIrtG/view?usp=sharing)
-* Exercise #4: [Training a ConvNetwork](https://drive.google.com/file/d/1VRaL0Fk0-UJz767greK97zc0-K-3nb0T/view?usp=sharing), [Solutions](https://drive.google.com/file/d/1iOJGqpXIqvJZWwJKSNUYkaFR1TP75k5n/view?usp=sharing)
-
-### Day 5: August 22nd, 2025
-* Lecture #6: [Convolutional Neural Networks (2)](https://docs.google.com/presentation/d/1Ebr67ZLzJ0M_IxNRk8jSyU_eUOGtNiGg/edit?usp=sharing&ouid=102364519369546893633&rtpof=true&sd=true)
-
-### Day 6: August 22nd, 2024
-* Exercise #5: [Transfer learning](https://drive.google.com/file/d/15_f_06WwGXxRAu5X7RC9J13ubnUSSPYw/view?usp=sharing)
-* Exercise #6: [Adversarial attacks](https://drive.google.com/file/d/1CMft1ZJQ0XHh8RIfO4AbA0Vapcnt5eTJ/view?usp=sharing)
-
 ### Day 7: August 22nd, 2024
 * Lecture #5: [LLM part 1](xx)
 
