@@ -30,7 +30,7 @@ The course will provide an overview of fundamental concepts and algorithms in ma
 * [Dr. Adel Bibi](www.adelbibi.com) (Email: adel.bibi@eng.ox.ac.uk, bibiadel93@gmail.com (preferred))
 
 ## Tutorial
-* Tutor: TBD
+* Tutor: [Dr. Alasdair Paren](https://www.linkedin.com/in/alasdair-paren-a66b88113/?originalSubdomain=uk) (Email: alasdair.paren@eng.ox.ac.uk)
 
 ##  Notes
 
@@ -52,8 +52,8 @@ The course will provide an overview of fundamental concepts and algorithms in ma
 
 ## Lectures
 ### Day 1: January 13th, 2025
-* [Lecture #1: AI and Machine Learning Applications](https://docs.google.com/presentation/d/16BPOblC_rsZ63KKaONjh4sWHZofM6KIk/edit?usp=sharing&ouid=102364519369546893633&rtpof=true&sd=true)
-* [Lecture #2: Regression](https://drive.google.com/file/d/19G10uGN-lovCgKEJu7Nw7GmtbmzufsnD/view?usp=sharing)
+* [Lecture #1 (part 1): AI and Machine Learning Applications](https://docs.google.com/presentation/d/16BPOblC_rsZ63KKaONjh4sWHZofM6KIk/edit?usp=sharing&ouid=102364519369546893633&rtpof=true&sd=true)
+* [Lecture #2 (part 2): Regression](https://drive.google.com/file/d/19G10uGN-lovCgKEJu7Nw7GmtbmzufsnD/view?usp=sharing)
 * Excercise #1: [Regression](https://drive.google.com/file/d/1LhyYDZJFx_XnnOshIDM440KpCW0O2ss5/view?usp=sharing), [Solutions]
 <!-- 
 https://drive.google.com/file/d/17f8VIPAKd1yggilQlRqaqwKKw4TgTT0L/view?usp=sharing
