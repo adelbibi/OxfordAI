@@ -81,7 +81,7 @@ https://drive.google.com/file/d/17f8VIPAKd1yggilQlRqaqwKKw4TgTT0L/view?usp=shari
 -->
 
 ### Day 5: January 21st, 2025
-* Lecture #5: [Convolutional Neural Networks (2)](https://drive.google.com/file/d/1Xf1q-eXZULj-_eIzaqx_CoMhJJfbS8NK/view?usp=sharing)
+* Lecture #5: [Convolutional Neural Networks (2)](https://drive.google.com/file/d/1Z3R8WoydXJpWonsirwYMeUmrlHgjdwbo/view?usp=sharing)
 * Exercise #5: [Transfer learning](https://drive.google.com/file/d/15_f_06WwGXxRAu5X7RC9J13ubnUSSPYw/view?usp=sharing)
 * Exercise #6: [Adversarial attacks](https://drive.google.com/file/d/1CMft1ZJQ0XHh8RIfO4AbA0Vapcnt5eTJ/view?usp=sharing)
 
