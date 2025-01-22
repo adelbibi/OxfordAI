@@ -83,7 +83,7 @@ The course will provide an overview of fundamental concepts and algorithms in ma
 
 ### Day 7: January 23rd, 2025
 * Lecture #7: [Large Language Models (part 2)](https://drive.google.com/file/d/1vrfkqrH67yPrFhleFfOwTdJKywhsCxil/view?usp=sharing)
-* * Exercise #8: [Two Head Transformer](https://colab.research.google.com/drive/1gLMysRQi6HhyIzCSApbKlsE8rAHrBbJW?usp=sharing), [Solutions]
+* Exercise #8: [Two Head Transformer](https://colab.research.google.com/drive/1gLMysRQi6HhyIzCSApbKlsE8rAHrBbJW?usp=sharing), [Solutions]
 
 
 ### Day 8: January 24th, 2025
