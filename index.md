@@ -94,4 +94,3 @@ The course will provide an overview of fundamental concepts and algorithms in ma
 ## Acknowledgments
 
 Thanks to [Hasan Hammoud](https://hasanhammoud.com/) for the help in preparing some exercises.
--->
