@@ -82,21 +82,13 @@ The course will provide an overview of fundamental concepts and algorithms in ma
 * Exercise #7: [Tokenization](https://colab.research.google.com/drive/1ngFPLU8VLso8EUso68LojkmxkbJf5ces?usp=sharing), [Solutions]
 
 ### Day 7: January 23rd, 2025
-* Lecture #7: [Large Language Models (part 2)]
+* Lecture #7: [Large Language Models (part 2)](https://drive.google.com/file/d/1vrfkqrH67yPrFhleFfOwTdJKywhsCxil/view?usp=sharing)
 * * Exercise #8: [Two Head Transformer](https://colab.research.google.com/drive/1gLMysRQi6HhyIzCSApbKlsE8rAHrBbJW?usp=sharing), [Solutions]
 
 
 ### Day 8: January 24th, 2025
 
 
-
-
-<!-- 
-### Day 7: August 22nd, 2024
-* Lecture #5: [LLM part 1](xx)
-
-### Day 8: August 22nd, 2024
-* Lecture #5: [LLM part 2](xx)
 
 
 ## Acknowledgments
