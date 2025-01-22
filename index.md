@@ -86,6 +86,9 @@ https://drive.google.com/file/d/17f8VIPAKd1yggilQlRqaqwKKw4TgTT0L/view?usp=shari
 * Exercise #6: [Adversarial attacks](https://drive.google.com/file/d/1CMft1ZJQ0XHh8RIfO4AbA0Vapcnt5eTJ/view?usp=sharing)
 
 ### Day 6: January 22nd, 2025
+* Lecture #6 (part 1): [Large Language Models](https://docs.google.com/presentation/d/18VLkjyBmv0MXSprZKbwuMmiNUvpxqY3f/edit?usp=sharing&ouid=102364519369546893633&rtpof=true&sd=true)
+* Exercise #7: [Tokenization](https://colab.research.google.com/drive/1ngFPLU8VLso8EUso68LojkmxkbJf5ces?usp=sharing)
+
 
 ### Day 7: January 23rd, 2025
 
