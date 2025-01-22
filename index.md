@@ -54,24 +54,16 @@ The course will provide an overview of fundamental concepts and algorithms in ma
 ### Day 1: January 13th, 2025
 * [Lecture #1 (part 1): AI and Machine Learning Applications](https://docs.google.com/presentation/d/16BPOblC_rsZ63KKaONjh4sWHZofM6KIk/edit?usp=sharing&ouid=102364519369546893633&rtpof=true&sd=true)
 * [Lecture #1 (part 2): Regression](https://drive.google.com/file/d/1kFD4oikypxMG8kj3Yy-BUKSlpyAhlwzP/view?usp=sharing)
-* Excercise #1: [Regression](https://drive.google.com/file/d/1LhyYDZJFx_XnnOshIDM440KpCW0O2ss5/view?usp=sharing), [Solutions]
-<!-- 
-https://drive.google.com/file/d/17f8VIPAKd1yggilQlRqaqwKKw4TgTT0L/view?usp=sharing
--->
+* Excercise #1: [Regression](https://drive.google.com/file/d/1LhyYDZJFx_XnnOshIDM440KpCW0O2ss5/view?usp=sharing), [Solutions](https://drive.google.com/file/d/17f8VIPAKd1yggilQlRqaqwKKw4TgTT0L/view?usp=sharing)
 
 ### Day 2: January 14th, 2025
 * [Lecture #2: Logistic regression](https://drive.google.com/file/d/1wIKKcjnbEmllolP0Wnfoy3SYiPlkb5pF/view?usp=sharing)
-* Exercise #2: [Logistic regression](https://colab.research.google.com/drive/1LN_bDbrTaUx_OVCFdsJLJgSbwo5AZbOx?usp=sharing), [Solutions]
-<!--
-(https://drive.google.com/file/d/1M-ew-r4VYyQxqfG80Fn4SeroENTirVVd/view?usp=sharing)
--->
+* Exercise #2: [Logistic regression](https://colab.research.google.com/drive/1LN_bDbrTaUx_OVCFdsJLJgSbwo5AZbOx?usp=sharing), [Solutions](https://drive.google.com/file/d/1M-ew-r4VYyQxqfG80Fn4SeroENTirVVd/view?usp=sharing)
 
 ### Day 3: January 15th, 2025
 * Lecture #3: [Neural Networks](https://drive.google.com/file/d/1ZKQFxSnYmum7nx6dVBh0x9PDCbfHCTY9/view?usp=sharing)
 * Exercise #3: [Neural Networks](https://drive.google.com/file/d/193O-DetZNEzCS71Vyd4rJRB_QX99_J0j/view?usp=sharing), [Solutions]
-<!--
-(https://drive.google.com/file/d/1M-ew-r4VYyQxqfG80Fn4SeroENTirVVd/view?usp=sharing)
--->
+
 
 ### Day 4: January 16th, 2025
 * Lecture #4: [Convolutional Neural Networks (1)](https://drive.google.com/file/d/1mpeuoDp4DB25iAQZlZADEOAvrP6HWulX/view?usp=sharing)
@@ -86,11 +78,13 @@ https://drive.google.com/file/d/17f8VIPAKd1yggilQlRqaqwKKw4TgTT0L/view?usp=shari
 * Exercise #6: [Adversarial attacks](https://drive.google.com/file/d/1CMft1ZJQ0XHh8RIfO4AbA0Vapcnt5eTJ/view?usp=sharing)
 
 ### Day 6: January 22nd, 2025
-* Lecture #6 (part 1): [Large Language Models](https://docs.google.com/presentation/d/18VLkjyBmv0MXSprZKbwuMmiNUvpxqY3f/edit?usp=sharing&ouid=102364519369546893633&rtpof=true&sd=true)
-* Exercise #7: [Tokenization](https://colab.research.google.com/drive/1ngFPLU8VLso8EUso68LojkmxkbJf5ces?usp=sharing)
-
+* Lecture #6: [Large Language Models (part 1)](https://drive.google.com/file/d/17r7ZlFLtkZlXXyjQr_3QnSGw4BibJ6of/view?usp=sharing)
+* Exercise #7: [Tokenization](https://colab.research.google.com/drive/1ngFPLU8VLso8EUso68LojkmxkbJf5ces?usp=sharing), [Solutions]
 
 ### Day 7: January 23rd, 2025
+* Lecture #7: [Large Language Models (part 2)]
+* * Exercise #8: [Two Head Transformer](https://colab.research.google.com/drive/1gLMysRQi6HhyIzCSApbKlsE8rAHrBbJW?usp=sharing), [Solutions]
+
 
 ### Day 8: January 24th, 2025
 
