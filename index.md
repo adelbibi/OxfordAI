@@ -87,7 +87,7 @@ The course will provide an overview of fundamental concepts and algorithms in ma
 
 
 ### Day 8: January 24th, 2025
-
+* Lecture #8: [AI Safety](https://drive.google.com/file/d/1Gdyjo15IALlJmGoF0yCYOZhLmOfSM2S5/view?usp=sharing)
 
 
 
