@@ -62,12 +62,12 @@ The course will provide an overview of fundamental concepts and algorithms in ma
 
 ### Day 3: January 15th, 2025
 * Lecture #3: [Neural Networks](https://drive.google.com/file/d/1ZKQFxSnYmum7nx6dVBh0x9PDCbfHCTY9/view?usp=sharing)
-* Exercise #3: [Neural Networks](https://drive.google.com/file/d/193O-DetZNEzCS71Vyd4rJRB_QX99_J0j/view?usp=sharing), [Solutions]
+* Exercise #3: [Neural Networks](https://drive.google.com/file/d/193O-DetZNEzCS71Vyd4rJRB_QX99_J0j/view?usp=sharing), [Solutions](https://drive.google.com/file/d/1JMenPClcQdNYVCxB6NvrrzH5JEFJfHQm/view?usp=sharing)
 
 
 ### Day 4: January 16th, 2025
 * Lecture #4: [Convolutional Neural Networks (1)](https://drive.google.com/file/d/1mpeuoDp4DB25iAQZlZADEOAvrP6HWulX/view?usp=sharing)
-* Exercise #4: [Training a ConvNetwork](https://drive.google.com/file/d/1VRaL0Fk0-UJz767greK97zc0-K-3nb0T/view?usp=sharing), [Solutions]
+* Exercise #4: [Training a ConvNetwork](https://drive.google.com/file/d/1VRaL0Fk0-UJz767greK97zc0-K-3nb0T/view?usp=sharing), [Solutions](https://drive.google.com/file/d/1iOJGqpXIqvJZWwJKSNUYkaFR1TP75k5n/view?usp=sharing)
 <!--
 (https://drive.google.com/file/d/1iOJGqpXIqvJZWwJKSNUYkaFR1TP75k5n/view?usp=sharing)
 -->
@@ -79,11 +79,11 @@ The course will provide an overview of fundamental concepts and algorithms in ma
 
 ### Day 6: January 22nd, 2025
 * Lecture #6: [Large Language Models (part 1)](https://drive.google.com/file/d/17r7ZlFLtkZlXXyjQr_3QnSGw4BibJ6of/view?usp=sharing)
-* Exercise #7: [Tokenization](https://colab.research.google.com/drive/1ngFPLU8VLso8EUso68LojkmxkbJf5ces?usp=sharing), [Solutions]
+* Exercise #7: [Tokenization](https://colab.research.google.com/drive/1ngFPLU8VLso8EUso68LojkmxkbJf5ces?usp=sharing), [Solutions](https://colab.research.google.com/drive/1Sf1DRuNjGFdN_t9xpP8jZS6FFE-emSZp?usp=sharing)
 
 ### Day 7: January 23rd, 2025
 * Lecture #7: [Large Language Models (part 2)](https://drive.google.com/file/d/1vrfkqrH67yPrFhleFfOwTdJKywhsCxil/view?usp=sharing)
-* Exercise #8: [Two Head Transformer](https://colab.research.google.com/drive/1gLMysRQi6HhyIzCSApbKlsE8rAHrBbJW?usp=sharing), [Solutions]
+* Exercise #8: [Two Head Transformer](https://colab.research.google.com/drive/1gLMysRQi6HhyIzCSApbKlsE8rAHrBbJW?usp=sharing), [Solutions](https://colab.research.google.com/drive/1OFOIvSjDCF7zaYlm_pPrUSOkeXQdqcAG?usp=sharing)
 
 
 ### Day 8: January 24th, 2025
