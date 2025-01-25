@@ -27,7 +27,7 @@ The course will provide an overview of fundamental concepts and algorithms in ma
 * Conclusions and a project
 
 ## Instructor
-* [Dr. Adel Bibi](www.adelbibi.com) (Email: adel.bibi@eng.ox.ac.uk, bibiadel93@gmail.com (preferred))
+* [Dr. Adel Bibi](www.adelbibi.com) (Email: bibiadel93@gmail.com (preferred), adel.bibi@eng.ox.ac.uk)
 
 ## Tutorial
 * Tutor: [Dr. Alasdair Paren](https://www.linkedin.com/in/alasdair-paren-a66b88113/?originalSubdomain=uk) (Email: alasdair.paren@eng.ox.ac.uk)
