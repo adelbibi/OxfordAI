@@ -90,6 +90,28 @@ The course will provide an overview of fundamental concepts and algorithms in ma
 * Lecture #8: [AI Safety](https://drive.google.com/file/d/1Gdyjo15IALlJmGoF0yCYOZhLmOfSM2S5/view?usp=sharing)
 
 
+## Project (Submission Deadline is February 6th, 2025)
+* Class Project [Training LLMs](https://colab.research.google.com/drive/1L86BTCO2yCrpn2MKXLzy8Zp_HgFtaJ2v?usp=sharing)
+
+* Notebook requirements:
+   - Ensure the entire notebook is run, and all results are displayed before submission.
+
+* Rename the file:
+   - Change the notebook file name to include your first and last names.
+   - Example: If your name is John Smith, rename the file to `Project_John_Smith.ipynb`.
+
+* Evaluation:
+   - If you implement only the TODOs, you will definitely pass the class. However, your final grade will be based on the **final loss function** in the last cell of your notebook.
+   - Note: Solutions to the multi-head attention (exercise 8) are available. You can use those as a baseline. However, to achieve a lower loss function, you will likely need to implement more heads and additional layers.
+
+* Download your submission:
+   - Go to **File** > **Download** > **Download .ipynb**.
+
+* Submit via email:
+   - Send the downloaded `.ipynb` file to both **bibiadel93@gmail.com** and **alasdair.paren@eng.ox.ac.uk**.
+   - Use the following email subject format: `OxfordAI_Project_FirstName_LastName`.  
+   - Example: If your name is John Smith, the email subject should be `OxfordAI_Project_John_Smith`.
+
 
 ## Acknowledgments
 
