@@ -30,8 +30,8 @@ The course will provide an overview of fundamental concepts and algorithms in ma
 * [Dr. Adel Bibi](www.adelbibi.com) (Email: bibiadel93@gmail.com (preferred), adel.bibi@eng.ox.ac.uk)
 
 ## Tutorial
-* Tutor: [Dr. Alasdair Paren](https://www.linkedin.com/in/alasdair-paren-a66b88113/?originalSubdomain=uk) (Email: alasdair.paren@eng.ox.ac.uk)
-
+* Tutor: [James Oldfield](https://james-oldfield.github.io/) (Email: jamesalexanderoldfield@gmail.com)
+  
 ##  Notes
 
 * NOTE 1: We will go through the following content in 4 days. We will use [[google colab]](https://colab.research.google.com/) as a platform for exercises.
@@ -102,7 +102,7 @@ The course will provide an overview of fundamental concepts and algorithms in ma
 * Lecture #8: [AI Safety](https://drive.google.com/file/d/1Gdyjo15IALlJmGoF0yCYOZhLmOfSM2S5/view?usp=sharing)
 -->
 
-## Project (Submission Deadline is XXX)
+## Project (Submission Deadline is TBD)
 <!--
 * Class Project [Training LLMs](https://colab.research.google.com/drive/1L86BTCO2yCrpn2MKXLzy8Zp_HgFtaJ2v?usp=sharing)
 
@@ -126,6 +126,8 @@ The course will provide an overview of fundamental concepts and algorithms in ma
    - Example: If your name is John Smith, the email subject should be `OxfordAI_Project_John_Smith`.
 -->
 
+
+<!--
 ## Acknowledgments
 
 Thanks to [Hasan Hammoud](https://hasanhammoud.com/) for the help in preparing some exercises.
