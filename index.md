@@ -60,9 +60,11 @@ The course will provide an overview of fundamental concepts and algorithms in ma
 -->
 
 ### Day 2: August 5th, 2025
-<!--
+
 * [Lecture #2: Logistic regression](https://drive.google.com/file/d/1wIKKcjnbEmllolP0Wnfoy3SYiPlkb5pF/view?usp=sharing)
-* Exercise #2: [Logistic regression](https://colab.research.google.com/drive/1LN_bDbrTaUx_OVCFdsJLJgSbwo5AZbOx?usp=sharing), [Solutions](https://drive.google.com/file/d/1M-ew-r4VYyQxqfG80Fn4SeroENTirVVd/view?usp=sharing)
+* Exercise #2: [Logistic regression](https://colab.research.google.com/drive/1LN_bDbrTaUx_OVCFdsJLJgSbwo5AZbOx?usp=sharing), [Solutions]
+<!--
+(https://drive.google.com/file/d/1M-ew-r4VYyQxqfG80Fn4SeroENTirVVd/view?usp=sharing)
 -->
 
 ### Day 3: August 6th, 2025
