@@ -68,9 +68,10 @@ The course will provide an overview of fundamental concepts and algorithms in ma
 -->
 
 ### Day 3: August 6th, 2025
-<!--
 * Lecture #3: [Neural Networks](https://drive.google.com/file/d/1ZKQFxSnYmum7nx6dVBh0x9PDCbfHCTY9/view?usp=sharing)
-* Exercise #3: [Neural Networks](https://drive.google.com/file/d/193O-DetZNEzCS71Vyd4rJRB_QX99_J0j/view?usp=sharing), [Solutions](https://drive.google.com/file/d/1JMenPClcQdNYVCxB6NvrrzH5JEFJfHQm/view?usp=sharing)
+* Exercise #3: [Neural Networks](https://drive.google.com/file/d/193O-DetZNEzCS71Vyd4rJRB_QX99_J0j/view?usp=sharing), [Solutions]
+<!--
+(https://drive.google.com/file/d/1JMenPClcQdNYVCxB6NvrrzH5JEFJfHQm/view?usp=sharing)
 -->
 
 ### Day 4: August 7th, 2025
