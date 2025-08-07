@@ -75,9 +75,10 @@ The course will provide an overview of fundamental concepts and algorithms in ma
 -->
 
 ### Day 4: August 7th, 2025
-<!--
 * Lecture #4: [Convolutional Neural Networks (1)](https://drive.google.com/file/d/1mpeuoDp4DB25iAQZlZADEOAvrP6HWulX/view?usp=sharing)
-* Exercise #4: [Training a ConvNetwork](https://drive.google.com/file/d/1VRaL0Fk0-UJz767greK97zc0-K-3nb0T/view?usp=sharing), [Solutions](https://drive.google.com/file/d/1iOJGqpXIqvJZWwJKSNUYkaFR1TP75k5n/view?usp=sharing)
+* Exercise #4: [Training a ConvNetwork](https://drive.google.com/file/d/1VRaL0Fk0-UJz767greK97zc0-K-3nb0T/view?usp=sharing), [Solutions]
+<!--
+(https://drive.google.com/file/d/1iOJGqpXIqvJZWwJKSNUYkaFR1TP75k5n/view?usp=sharing)
 (https://drive.google.com/file/d/1iOJGqpXIqvJZWwJKSNUYkaFR1TP75k5n/view?usp=sharing)
 -->
 
