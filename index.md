@@ -54,10 +54,7 @@ The course will provide an overview of fundamental concepts and algorithms in ma
 ### Day 1: August 4th, 2025
 * [Lecture #1 (part 1): AI and Machine Learning Applications](https://docs.google.com/presentation/d/16BPOblC_rsZ63KKaONjh4sWHZofM6KIk/edit?usp=sharing&ouid=102364519369546893633&rtpof=true&sd=true)
 * [Lecture #1 (part 2): Regression](https://drive.google.com/file/d/1kFD4oikypxMG8kj3Yy-BUKSlpyAhlwzP/view?usp=sharing)
-* Excercise #1: [Regression](https://drive.google.com/file/d/1LhyYDZJFx_XnnOshIDM440KpCW0O2ss5/view?usp=sharing), [Solutions]
-<!--
-(https://drive.google.com/file/d/17f8VIPAKd1yggilQlRqaqwKKw4TgTT0L/view?usp=sharing)
--->
+* Excercise #1: [Regression](https://drive.google.com/file/d/1LhyYDZJFx_XnnOshIDM440KpCW0O2ss5/view?usp=sharing), [Solutions](https://drive.google.com/file/d/17f8VIPAKd1yggilQlRqaqwKKw4TgTT0L/view?usp=sharing)
 
 ### Day 2: August 5th, 2025
 
@@ -83,11 +80,10 @@ The course will provide an overview of fundamental concepts and algorithms in ma
 -->
 
 ### Day 5: August 12th, 2025
-<!--
 * Lecture #5: [Convolutional Neural Networks (2)](https://drive.google.com/file/d/1Z3R8WoydXJpWonsirwYMeUmrlHgjdwbo/view?usp=sharing)
 * Exercise #5: [Transfer learning](https://drive.google.com/file/d/15_f_06WwGXxRAu5X7RC9J13ubnUSSPYw/view?usp=sharing)
 * Exercise #6: [Adversarial attacks](https://drive.google.com/file/d/1CMft1ZJQ0XHh8RIfO4AbA0Vapcnt5eTJ/view?usp=sharing)
--->
+
   
 ### Day 6: August 13th, 2025
 <!--
