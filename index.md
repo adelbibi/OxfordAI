@@ -59,10 +59,8 @@ The course will provide an overview of fundamental concepts and algorithms in ma
 ### Day 2: August 5th, 2025
 
 * [Lecture #2: Logistic regression](https://drive.google.com/file/d/1wIKKcjnbEmllolP0Wnfoy3SYiPlkb5pF/view?usp=sharing)
-* Exercise #2: [Logistic regression](https://colab.research.google.com/drive/1LN_bDbrTaUx_OVCFdsJLJgSbwo5AZbOx?usp=sharing), [Solutions]
-<!--
-(https://drive.google.com/file/d/1M-ew-r4VYyQxqfG80Fn4SeroENTirVVd/view?usp=sharing)
--->
+* Exercise #2: [Logistic regression](https://colab.research.google.com/drive/1LN_bDbrTaUx_OVCFdsJLJgSbwo5AZbOx?usp=sharing), [Solutions](https://drive.google.com/file/d/1M-ew-r4VYyQxqfG80Fn4SeroENTirVVd/view?usp=sharing)
+
 
 ### Day 3: August 6th, 2025
 * Lecture #3: [Neural Networks](https://drive.google.com/file/d/1ZKQFxSnYmum7nx6dVBh0x9PDCbfHCTY9/view?usp=sharing)
@@ -86,9 +84,10 @@ The course will provide an overview of fundamental concepts and algorithms in ma
 
   
 ### Day 6: August 13th, 2025
-<!--
 * Lecture #6: [Large Language Models (part 1)](https://drive.google.com/file/d/17r7ZlFLtkZlXXyjQr_3QnSGw4BibJ6of/view?usp=sharing)
-* Exercise #7: [Tokenization](https://colab.research.google.com/drive/1ngFPLU8VLso8EUso68LojkmxkbJf5ces?usp=sharing), [Solutions](https://colab.research.google.com/drive/1Sf1DRuNjGFdN_t9xpP8jZS6FFE-emSZp?usp=sharing)
+* Exercise #7: [Tokenization](https://colab.research.google.com/drive/1ngFPLU8VLso8EUso68LojkmxkbJf5ces?usp=sharing), [Solutions]
+<!--
+(https://colab.research.google.com/drive/1Sf1DRuNjGFdN_t9xpP8jZS6FFE-emSZp?usp=sharing)
 -->
 
 ### Day 7: August 14th, 2025
