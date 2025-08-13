@@ -84,7 +84,7 @@ The course will provide an overview of fundamental concepts and algorithms in ma
 
   
 ### Day 6: August 13th, 2025
-* Lecture #6: [Large Language Models (part 1)](https://drive.google.com/file/d/17r7ZlFLtkZlXXyjQr_3QnSGw4BibJ6of/view?usp=sharing)
+* Lecture #6: [Large Language Models (part 1)](https://drive.google.com/file/d/1MVEZ9KdGu-A1rXFE7lSEfsMvkiP5qoIX/view?usp=sharing)
 * Exercise #7: [Tokenization](https://colab.research.google.com/drive/1ngFPLU8VLso8EUso68LojkmxkbJf5ces?usp=sharing), [Solutions]
 <!--
 (https://colab.research.google.com/drive/1Sf1DRuNjGFdN_t9xpP8jZS6FFE-emSZp?usp=sharing)
