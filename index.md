@@ -97,12 +97,11 @@ The course will provide an overview of fundamental concepts and algorithms in ma
 (https://colab.research.google.com/drive/1OFOIvSjDCF7zaYlm_pPrUSOkeXQdqcAG?usp=sharing)
 -->
 
-### Day 8: August15th, 2025
-<!--
+### Day 8: August 15th, 2025
 * Lecture #8: [AI Safety](https://drive.google.com/file/d/1Gdyjo15IALlJmGoF0yCYOZhLmOfSM2S5/view?usp=sharing)
--->
+  
 
-## Project (Submission Deadline is TBD)
+## Project (Submission Deadline is August 24th (Anywhere on Earth))
 <!--
 * Class Project [Training LLMs](https://colab.research.google.com/drive/1L86BTCO2yCrpn2MKXLzy8Zp_HgFtaJ2v?usp=sharing)
 
@@ -121,7 +120,7 @@ The course will provide an overview of fundamental concepts and algorithms in ma
    - Go to **File** > **Download** > **Download .ipynb**.
 
 * Submit via email:
-   - Send the downloaded `.ipynb` file to both **bibiadel93@gmail.com** and **alasdair.paren@eng.ox.ac.uk**.
+   - Send the downloaded `.ipynb` file to **jamesalexanderoldfield@gmail.com**.
    - Use the following email subject format: `OxfordAI_Project_FirstName_LastName`.  
    - Example: If your name is John Smith, the email subject should be `OxfordAI_Project_John_Smith`.
 -->
