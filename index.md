@@ -98,7 +98,7 @@ The course will provide an overview of fundamental concepts and algorithms in ma
 -->
 
 ### Day 8: August 15th, 2025
-* Lecture #8: [AI Safety](https://drive.google.com/file/d/1Gdyjo15IALlJmGoF0yCYOZhLmOfSM2S5/view?usp=sharing)
+* Lecture #8: [AI Safety](https://docs.google.com/presentation/d/1g2GbqwScp-dzIct8y5FRHrkBuMhpkosI/edit?usp=sharing&ouid=102364519369546893633&rtpof=true&sd=true)
   
 
 ## Project (Submission Deadline is August 24th anywhere on earth)
